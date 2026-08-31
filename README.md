@@ -1,6 +1,8 @@
 # System Design / DSA: Zero to Solution Design
 
-Hi, I'm **Himanshu Kumar Dwivedi** — Technical Lead & Solution Architect with **8 years** of experience designing enterprise systems.
+Hi, I'm **Himanshu Kumar** — Technical Lead & Solution Architect with **8 years** of experience designing enterprise systems.
+
+I work at **CRISIL Ltd, an S&P Global company**, on S&P Global projects.
 
 This repo is my open log covering problem-solving fundamentals through to production solution design: DSA → algorithms → LLD → HLD → written design docs.
 
@@ -42,6 +44,7 @@ I add one folder at a time as I work through a topic.
 
 ## About me
 
+- Technical Lead & Solution Architect at **CRISIL Ltd, an S&P Global company** — currently on S&P Global projects
 - 8 years across Salesforce architecture, integrations, and enterprise GenAI
 - Domains: Public Sector, Financial Services, Healthcare, Supply Chain
 - B.Tech in Computer Science, AKTU Lucknow
