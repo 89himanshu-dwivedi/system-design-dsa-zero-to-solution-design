@@ -48,7 +48,7 @@ I add one folder at a time as I work through a topic.
 - 8 years across Salesforce architecture, integrations, and enterprise GenAI
 - Domains: Public Sector, Financial Services, Healthcare, Supply Chain
 - B.Tech in Computer Science, AKTU Lucknow
-- [GitHub](https://github.com/89himanshu-dwivedi)
+- [GitHub](https://github.com/89himanshu-dwivedi) · [LinkedIn](https://www.linkedin.com/in/himanshukumar-sf/) · [X](https://x.com/kum60094) · [Trailblazer](https://www.salesforce.com/trailblazer/hdwivedi2) · [Email](mailto:himanshu.jee.1996@gmail.com)
 
 ---
 
