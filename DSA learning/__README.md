@@ -339,8 +339,6 @@ A topic is considered **COMPLETE** when we have:
 - [ ] Python implementation
 - [ ] Edge cases
 - [ ] Errors & Gotchas
-- [ ] Advanced patterns
-- [ ] Practical use cases
 - [ ] Interview questions
 - [ ] Real-world engineering connection
 
